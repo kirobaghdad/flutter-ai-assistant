@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ai_assistant/ai_screen.dart';
+import 'package:flutter_ai_assistant/screen/ai_screen.dart';
 
 void main() {
   runApp(const MyApp());
